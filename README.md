@@ -15,8 +15,7 @@ Game development and 3D web development projects.
 ### 💬 Ask me about 
 Game development and gameplay programming using Unity3D and Unreal Engine, Spatial Computing, VR/AR, UI/UX, web development DSA and general software development.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunnava)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aunnava&hide=contribs,prs)
 <!--
 **aunnava/aunnava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
