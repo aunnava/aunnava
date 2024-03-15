@@ -1,6 +1,16 @@
 ### Hi there 👋
-### 🔭 I’m currently working on improving Gameplay and game performance 
-### 🌱 I’m currently learning ThreeJs and WebGL
+
+### 🔭 I’m currently working on :
+Rapid feature prototyping and improving gameplay and game performance. 
+
+### 🌱 I’m currently learning :
+ThreeJs, WebGL, MERN stack and Google cloud platform.
+
+### 👯 I’m looking to collaborate on ...
+Game development and 3D web development projects.
+
+### 💬 Ask me about 
+Game development and gameplay programming using Unity3D and Unreal Engine, UI/UX, web development DSA and general software development.
 
 
 <!--
