@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Anurag Unnava
 #### Software Developer | Game Engines | Product Development
-Seasoned Software Developer | Unity3D and Unreal Engine | MERN and ThreeJS | UI/UX 
 
 Skills: Unity3D/ Unreal Engine / ThreeJS / MERN Stack/ DSA / Software Engineering
 
