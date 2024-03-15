@@ -1,3 +1,4 @@
+## About Me
 ### Hi there 👋
 
 ### 🔭 I’m currently working on :
@@ -10,7 +11,8 @@ ThreeJs, WebGL, MERN stack and Google cloud platform.
 Game development and 3D web development projects.
 
 ### 💬 Ask me about 
-Game development and gameplay programming using Unity3D and Unreal Engine, UI/UX, web development DSA and general software development.
+Game development and gameplay programming using Unity3D and Unreal Engine, Spatial Computing, VR/AR, UI/UX, web development DSA and general software development.
+
 
 
 <!--
