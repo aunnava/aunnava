@@ -17,7 +17,6 @@ Skills: Unity3D/ Unreal Engine / ThreeJS / MERN Stack/ DSA /Software Engineering
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aunnava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anuragunnava//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/anuragunnava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anuragunnava.wixsite.com/thexranurag)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aunnava)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aunnava/contributions?format=svg&private=true)  
+  
 
