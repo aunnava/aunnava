@@ -2,7 +2,9 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on :
-Rapid feature prototyping and improving gameplay and game performance. 
+ -> Rapid feature prototyping and
+ -> improving gameplay
+ -> and game performance. 
 
 ### 🌱 I’m currently learning :
 ThreeJs, WebGL, MERN stack and Google cloud platform.
