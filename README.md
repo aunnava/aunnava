@@ -14,7 +14,7 @@ Game development and gameplay programming using Unity3D and Unreal Engine, Spati
 ### 📫 How to reach me: anuragunnava@gmail.com 
 
 
-[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/aunnava)  [<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anuragunnava//)  [<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/anuragunnava)  [<img src='https://simpleicons.vercel.app/icloud/fff' alt='website' height='40'>](https://anuragunnava.wixsite.com/thexranurag)  
+[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/aunnava)  [<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/anuragunnava/)  [<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/anuragunnava)  [<img src='https://simpleicons.vercel.app/icloud/fff' alt='website' height='40'>](https://anuragunnava.wixsite.com/thexranurag)  
 
 
   
