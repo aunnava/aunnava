@@ -1,20 +1,45 @@
 # Hi there 👋, I'm Anurag Unnava
-#### Research Software Engineer | Game Engines | Product Development | Spatial Computing
 
-Skills: Unity3D / Unreal Engine / MERN Stack / DSA / Software Engineering
+#### Research Engineer @ IKEA of Sweden | LLMs & Vision Models | 3D Spatial AI | Game Engines | NVIDIA Omniverse
 
-### 🔭 I’m currently working on :
-Researching methods to use spatial compting, AI and computer vision to solve home interior use cases,  rapid feature prototyping, VR/AR
-### 🌱 I’m currently learning :
-Computer Vision, SLAM, Semantic Anchors, MERN Stack and AWS. 
-### 👯 I’m looking to collaborate on :
-Game/XR development and 3D web development projects. 
-### 💬 Ask me about :  
-Game development and gameplay programming using Unity3D and Unreal Engine, Spatial Computing, VR/AR, UI/UX, web development DSA and general software development. 
-### 📫 How to reach me: anuragunnava@gmail.com 
+📍 Malmö, Sweden
 
+---
 
-[<img src='https://simpleicons.vercel.app/github/fff' alt='github' height='40'>](https://github.com/aunnava)  [<img src='https://simpleicons.vercel.app/linkedin/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/anuragunnava/)  [<img src='https://simpleicons.vercel.app/twitter/fff' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/anuragunnava)  [<img src='https://simpleicons.vercel.app/icloud/fff' alt='website' height='40'>](https://anuragunnava.wixsite.com/thexranurag)  
+### 💼 What I do :
 
+At IKEA of Sweden, I conduct applied research into state-of-the-art large language models, vision models, and 3D spatial AI — identifying and validating high-impact use cases across IKEA's product and retail ecosystem. I design proof-of-concept prototypes using game engines, NVIDIA Omniverse, and web/mobile-native frameworks, and serve as a subject matter expert translating complex AI research into actionable guidance for cross-functional teams.
 
-  
+---
+
+### 🛠 Tech Stack :
+
+**Languages:** Python, C#
+
+**Game Engines:** Unity3D, Unreal Engine
+
+**Cloud:** Google Cloud Platform (GCP), Microsoft Azure
+
+**Databases:** MySQL, MongoDB
+
+**Dev Practices:** OOP, Design Patterns, SOLID, REST API, CI/CD, Agile
+
+**Tools:** Git, GitHub, NVIDIA Omniverse
+
+---
+
+### 🎓 Education :
+
+- 🎓 **MSc** — Lunds Tekniska Högskola (Lund University), Sweden
+-   - Computer Graphics, Computer Vision, UI/UX, Universal Design Theory
+ 
+    - - 🎓 **BE** — Koneru Lakshmaiah Educational Foundation, India
+      -   - DSA, DBMS, Operating Systems, Computer Networking, OOP
+       
+          - ---
+
+          ### 📬 How to reach me :
+
+          - 📧 anuragunnava@gmail.com
+          - - 🔗 [LinkedIn](https://www.linkedin.com/in/anuragunnava/)
+            - - 📞 +46 764360168
